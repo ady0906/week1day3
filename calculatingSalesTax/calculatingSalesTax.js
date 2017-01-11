@@ -22,12 +22,6 @@ var companySalesData = [
   }
 ];
 
-// function calculateSalesTax(salesData, taxRates) {
-//   // Implement your code here
-// }
-//
-// var results = salesTaxReport(companySalesData, salesTaxRates);
-
 /* Expected Results:
 {
   Telus: {
